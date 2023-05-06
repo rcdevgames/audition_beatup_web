@@ -325,6 +325,7 @@ BUJS.e = function(s) {
     }, !1)
 }, BUJS.ya.prototype.xa = function(s) {
     var a = this;
+    console.log(s)
     switch (s) {
         case 112:
             bujs.a.Ra = !bujs.a.Ra;
@@ -343,37 +344,43 @@ BUJS.e = function(s) {
         case 93:
             bujs.a.Ya = !bujs.a.Ya;
         case 55:
-        case 82:
+        case 73:
+        // case 82:
         case 103:
         case 36:
             bujs.a.Ya || a.Ga(7);
             break;
         case 52:
-        case 70:
+        case 75:
+        // case 70:
         case 100:
         case 37:
             bujs.a.Ya || a.Ga(4);
             break;
         case 49:
-        case 86:
+        case 188:
+        // case 86:
         case 97:
         case 35:
             bujs.a.Ya || a.Ga(1);
             break;
         case 57:
-        case 73:
+        case 80:
+        // case 73:
         case 105:
         case 33:
             bujs.a.Ya || a.Ga(9);
             break;
         case 54:
-        case 75:
+        case 186:
+        // case 75:
         case 102:
         case 39:
             bujs.a.Ya || a.Ga(6);
             break;
         case 51:
-        case 77:
+        case 191:
+        // case 77:
         case 99:
         case 34:
             bujs.a.Ya || a.Ga(3);
@@ -381,6 +388,7 @@ BUJS.e = function(s) {
         case 48:
         case 53:
         case 32:
+        case 76:
         case 96:
         case 101:
             bujs.a.Ya || a.Ga(5)
